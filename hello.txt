@@ -1,2 +1,4 @@
 "Hello Git" 
 "I am learning git via youtube"
+It is intresting.
+I am understanding it better
